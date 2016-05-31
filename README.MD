@@ -1,2 +1,4 @@
-README.MD
+hello every!
+ 
+this is just for learning
 
